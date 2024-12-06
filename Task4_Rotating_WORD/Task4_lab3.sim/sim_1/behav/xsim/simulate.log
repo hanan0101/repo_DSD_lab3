@@ -1,0 +1,5 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+input 11 
+output 0dce
+$finish called at time : 40 ns : File "/home/it/lab3/Task4_lab3/Task4_lab3.srcs/sim_1/new/tb_word.sv" Line 27

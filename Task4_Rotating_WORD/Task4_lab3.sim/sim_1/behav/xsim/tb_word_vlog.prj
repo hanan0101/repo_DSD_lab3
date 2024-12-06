@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Task4_lab3.srcs/sources_1/new/rotating_word.sv" \
+"../../../../Task4_lab3.srcs/sim_1/new/tb_word.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

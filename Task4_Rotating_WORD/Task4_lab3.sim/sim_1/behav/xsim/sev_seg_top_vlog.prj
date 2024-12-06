@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../Downloads/task1/src/counter_n_bit.sv" \
+"../../../../../Downloads/task1/src/decoder.sv" \
+"../../../../Task4_lab3.srcs/sources_1/new/rotating_word.sv" \
+"../../../../../Downloads/task1/src/sev_seg_controller.sv" \
+"../../../../../Downloads/task1/src/sev_seg_decoder.sv" \
+"../../../../../Downloads/task1/src/sev_seg.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

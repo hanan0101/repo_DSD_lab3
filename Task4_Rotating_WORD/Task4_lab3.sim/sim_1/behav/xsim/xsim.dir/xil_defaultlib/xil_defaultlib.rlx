@@ -1,0 +1,12 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Downloads/task1/src/counter_n_bit.sv,1731075515,systemVerilog,,/home/it/Downloads/task1/src/decoder.sv,,counter_n_bit,,,,,,,,
+/home/it/Downloads/task1/src/decoder.sv,1731076163,systemVerilog,,/home/it/Task4_lab3/Task4_lab3.srcs/sources_1/new/rotating_word.sv,,decoder,,,,,,,,
+/home/it/Downloads/task1/src/sev_seg.sv,1731593310,systemVerilog,,,,sev_seg_top,,,,,,,,
+/home/it/Downloads/task1/src/sev_seg_controller.sv,1731569315,systemVerilog,,/home/it/Downloads/task1/src/sev_seg_decoder.sv,,sev_seg_controller,,,,,,,,
+/home/it/Downloads/task1/src/sev_seg_decoder.sv,1731570557,systemVerilog,,/home/it/Downloads/task1/src/sev_seg.sv,,seven_seg_decoder,,,,,,,,
+/home/it/lab3/Task4_lab3/Task4_lab3.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/lab3/Task4_lab3/Task4_lab3.srcs/sim_1/new/tb_word.sv,1731672437,systemVerilog,,,,tb_word,,,,,,,,
+/home/it/lab3/Task4_lab3/Task4_lab3.srcs/sources_1/new/rotating_word.sv,1732141365,systemVerilog,,/home/it/lab3/Task4_lab3/Task4_lab3.srcs/sim_1/new/tb_word.sv,,rotating_word,,,,,,,,
