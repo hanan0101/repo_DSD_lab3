@@ -1,0 +1,11 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Documents/DSD_Labs/3.DSD_Lab3/ALU/ALU.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Documents/DSD_Labs/3.DSD_Lab3/ALU/ALU.srcs/sim_1/new/tb_ALU.sv,1733523376,systemVerilog,,,,tb_ALU,,,,,,,,
+/home/it/Documents/DSD_Labs/3.DSD_Lab3/ALU/ALU.srcs/sources_1/new/FF.sv,1733510419,systemVerilog,,/home/it/Documents/DSD_Labs/3.DSD_Lab3/ALU/ALU.srcs/sources_1/new/Half_Adder.sv,,FF,,,,,,,,
+/home/it/Documents/DSD_Labs/3.DSD_Lab3/ALU/ALU.srcs/sources_1/new/Half_Adder.sv,1733510389,systemVerilog,,/home/it/Documents/DSD_Labs/3.DSD_Lab3/ALU/ALU.srcs/sources_1/new/Mux.sv,,Half_Adder,,,,,,,,
+/home/it/Documents/DSD_Labs/3.DSD_Lab3/ALU/ALU.srcs/sources_1/new/Mux.sv,1733514617,systemVerilog,,/home/it/Documents/DSD_Labs/3.DSD_Lab3/ALU/ALU.srcs/sources_1/new/SUB_ADD.sv,,Mux,,,,,,,,
+/home/it/Documents/DSD_Labs/3.DSD_Lab3/ALU/ALU.srcs/sources_1/new/SUB_ADD.sv,1733523854,systemVerilog,,/home/it/Documents/DSD_Labs/3.DSD_Lab3/ALU/ALU.srcs/sources_1/new/sub_add.sv,,SUB_ADD,,,,,,,,
+/home/it/Documents/DSD_Labs/3.DSD_Lab3/ALU/ALU.srcs/sources_1/new/sub_add.sv,1733523816,systemVerilog,,/home/it/Documents/DSD_Labs/3.DSD_Lab3/ALU/ALU.srcs/sim_1/new/tb_ALU.sv,,ALU,,,,,,,,
